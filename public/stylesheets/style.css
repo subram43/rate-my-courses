@@ -1,0 +1,84 @@
+#search-form, #search-univ, #search-course {
+  width: 88%;
+  text-align: center;
+  display: inline-block; }
+
+#newAccountForm, #newRatingForm {
+  text-align: left; }
+
+#big-search {
+  width: 60%; }
+
+#btn-univ-search, #btn-course-search {
+  width: 15%;
+  height: 14%;
+  font-size: 1.65vw; }
+
+#btn-univ-search {
+  margin-left: 34%;
+  margin-right: 2%; }
+
+#small-search-1, #small-search-2 {
+  width: 30%;
+  margin-left: 13%; }
+
+.navbar-brand {
+  width: 10%; }
+
+.img-brand {
+  width: 100%;
+  height: calc(1.5em + .75rem + 2px); }
+
+.jumbotron {
+  height: 100%;
+  min-height: 100vh; }
+
+.btn-middle {
+  margin-right: 1%; }
+
+.rating-display {
+  font-weight: bold; }
+
+.table-header {
+  background-color: #6c757d;
+  border-top-color: #6c757d;
+  color: White;
+  height: 40px; }
+
+.body-item {
+  height: 80px; }
+
+.user-item {
+  height: 100px; }
+
+.table-text {
+  font-size: 30px; }
+
+.comment-text {
+  font-size: 20px; }
+
+.btn-search-medium {
+  width: 15%;
+  height: 14%;
+  font-size: 1.75vw; }
+
+.search-container {
+  margin-top: 1%; }
+
+html, body {
+  padding: 0;
+  margin: 0; }
+
+html {
+  height: 100%; }
+
+body {
+  min-height: 100%; }
+
+th {
+  font-weight: normal; }
+
+table {
+  width: 100%; }
+
+/*# sourceMappingURL=style.css.map */
